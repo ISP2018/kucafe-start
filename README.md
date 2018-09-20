@@ -77,7 +77,7 @@ cmd> edit menu.md  (use any text editor you like)
 
 12. Commit your revised `menu.md`. Write a good, descriptive commit message since you merged conflicting files.
 
-13. Switch back to "master" and merge the `dev-one-menu` branch.  This time the merge is easy.  Wny?
+13. Switch back to "master" and merge the `dev-one-menu` branch.  This time the merge is easy.  Why?
     * After that, make changes to README.md on `master` and commit it.
   
 14. Push the updated `master` branch to Github.
